@@ -1,0 +1,21 @@
+p {
+      color: white;
+}
+.red {
+      display: inline-block;
+      width: 400px;
+      height: 400px;
+      background-color: red;
+}
+.green {
+      display: inline-block;
+      width: 400px;
+      height: 400px;
+      background-color: green;
+}
+.blue {
+      display: inline-block;
+      width: 400px;
+      height: 400px;
+      background-color: blue;
+}
